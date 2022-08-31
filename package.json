@@ -1,0 +1,16 @@
+{
+  "name": "amix-layout",
+  "version": "1.0.0",
+  "description": "修复react-grid-layout在浏览器窗口大小变化，内容块不能及时响应",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rkxie/amix-layout"
+  },
+  "keywords": [],
+  "author": "2058936074@qq.com",
+  "license": "MIT"
+}
